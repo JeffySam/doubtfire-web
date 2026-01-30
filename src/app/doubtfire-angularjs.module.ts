@@ -103,7 +103,7 @@ import 'build/src/app/units/states/tasks/viewer/viewer.js';
 import 'build/src/app/units/states/tasks/definition/definition.js';
 import 'build/src/app/units/states/portfolios/portfolios.js';
 import 'build/src/app/units/states/groups/groups.js';
-import ' ./units/states/states.js';
+import ' ./units/states/states.';
 import 'build/src/app/units/states/edit/directives/unit-group-set-editor/unit-group-set-editor.js';
 import 'build/src/app/units/states/edit/directives/unit-details-editor/unit-details-editor.js';
 import 'build/src/app/units/states/edit/directives/unit-staff-editor/unit-staff-editor.js';
